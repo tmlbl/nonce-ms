@@ -1,7 +1,7 @@
 
 {
   "name": "nonce-ms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An example node module returning unique timestamps at scale.",
   "main": "lib/nonce.js",
   "bin": "./bin/nonce-ms",
